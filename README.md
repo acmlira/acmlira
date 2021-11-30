@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+- Software developer focused on Java ☕, Linux 🐧, Embedded Systems and Embedded Softwares 🚢
+- Stack: Java, Kotlin and C/C+
+- Knowledge of: Javascript, Typescript and Python
+- Tools: Docker, AWS & Shell script
+- SQL and NoSQL tools: PostgreSQL, MongoDB and Redis
+- Open source contributor & pixel wizard
+- Machine Learning enthusiast
+- More than 2 years working in english
+
 <!--
 **acmlira/acmlira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
