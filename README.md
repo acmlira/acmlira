@@ -1,25 +1,16 @@
 ### Hi there 👋
 
-- Software developer focused on Java ☕, Linux 🐧, Embedded Systems and Embedded Softwares 🚢
-- Stack: Java, Kotlin and C/C+
-- Knowledge of: Javascript, Typescript and Python
-- Tools: Docker, AWS & Shell script
-- SQL and NoSQL tools: PostgreSQL, MongoDB and Redis
-- Open source contributor & pixel wizard
-- Machine Learning enthusiast
-- More than 2 years working in english
+Software Developer at [@TotalCross](https://github.com/totalcross)
 
-<!--
-**acmlira/acmlira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Enthusiast of distributed computing & machine learning.
 
-Here are some ideas to get you started:
+Passionate by Linux🐧and high skilled developer of event driven systems, limited resources systems, embedded systems and embedded softwares.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Stack: 
+- Proficient in Java, Kotlin and C/C+
+- Knowledge of Javascript, Typescript and Python
+- Tools mastered Docker, AWS & Shell script
+
+### `apt get a-life`
+- Open source contributor & pixel wizard ✨
+- More than 3 years working and talking with people around the world 🌎
