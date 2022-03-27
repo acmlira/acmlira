@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software Developer at [@TotalCross](https://github.com/totalcross)
+Software Developer at OneBrain/iFood
 
 Enthusiast of distributed computing & machine learning.
 
