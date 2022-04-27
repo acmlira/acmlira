@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software Developer at OneBrain/iFood
+Software Developer at @iFood via @OneBrain
 
 Enthusiast of distributed computing & machine learning.
 
