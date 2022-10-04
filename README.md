@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Software Developer at @iFood via @OneBrain
+Back-End Developer at @Applaudo
 
 Enthusiast of distributed computing & machine learning.
 
