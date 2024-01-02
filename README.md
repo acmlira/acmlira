@@ -17,4 +17,4 @@ More about my stack:
 
 More about me:
 - Open source contributor & pixel wizard ✨
-- More than 4 years working and talking with people around the world 🌎
+- More than 5 years working and talking with people around the world 🌎
